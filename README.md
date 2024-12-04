@@ -9,6 +9,7 @@
 ## Overview of the Project
 
 ### Project: TO-DO LIST APPLICATION WITH LOCAL STORAGE
+![Screenshot 2024-12-04 200857](https://github.com/user-attachments/assets/44cc7c84-1568-4e9a-9b6c-1871721566f2)
 
 ### Objective
 
